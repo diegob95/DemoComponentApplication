@@ -8,3 +8,4 @@ dependencyResolutionManagement {
 }
 rootProject.name = "DemoComponentApplication"
 include ':app'
+include ':DemoComponent'
